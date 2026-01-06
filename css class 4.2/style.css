@@ -1,0 +1,22 @@
+.blue{
+    color: blue;
+}
+
+.container h1{
+    font-size: 50px;
+    color: rgb(79, 138, 226);
+}
+
+@font-face{
+    font-family: "my font";
+    src: url(/fonts/PlayfairDisplay-Italic-VariableFont_wght.ttf);
+}
+
+.container h1{
+    font-family: ;
+}
+
+.container h2{
+    font-size: 25px;
+    color:  rgb(79, 138, 226);
+}
