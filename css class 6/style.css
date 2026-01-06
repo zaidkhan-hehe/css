@@ -1,0 +1,79 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table{
+    font-size: x-large;
+    background-color: rgb(45, 44, 44);
+    width: 80%;
+    height: 40%;
+    border: 3px solid gray;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    border-spacing: 2px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+
+td{
+    color: aqua;
+}
+
+
+.first{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+
+
+.sec{
+    background-color: orange;
+    color: white;
+}
+
+.third{
+    background-color: red;
+    color: white;
+}
+
+.fourth{
+    background-color: rgb(3, 186, 202);
+}
+
+th{
+    border: 1px solid gray;
+}
+
+button{
+    height: 35px;
+    width: 100px;
+    margin: 10px;
+    border-radius: 20px;
+    color: white;
+    background-color: red;
+}
+
+
+.bro{
+    color: orange;
+}
+
+.bruh{
+    color: red;
+}
+
+.huhh{
+    color: rgb(3, 186, 202);
+}
