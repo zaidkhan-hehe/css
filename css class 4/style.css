@@ -1,0 +1,45 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.container{
+    width: 70%;
+    margin: 40px auto;
+    border: 3px solid black;
+    padding: 20px;
+}
+  
+.nav{
+    border: 2PX solid black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border-left: none;
+    border-right: none;
+}
+
+
+.images{
+    display: flex;
+    justify-content: center;
+    margin: 10px 0px;
+    gap: 0;
+}
+
+
+.images img{
+    width: 100%;
+}
+
+.top h1,
+.top h2,
+.top h3{
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+}
+
+.last p{
+    font-size: medium;
+}
